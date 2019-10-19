@@ -1,0 +1,5 @@
+Click event will lead to a new window
+essex - udit
+edgewood-zeenat
+
+make animated plot based on time series data and research about pollution related activities in the area.  
